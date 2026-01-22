@@ -1,6 +1,4 @@
-# 📘 DevTrack_LogBook
-
-## 🗓 Development Log
+# 🗓 Development Log
 
 ### Day 1 — Idea & Planning *(16 Jan 2026)*
 - Overall idea planning  
