@@ -1,6 +1,23 @@
-# DevTrack_LogBook
+# 📘 DevTrack_LogBook
 
-day 1 -> overal idea planning
-day 2 -> auth setup (github db mail notification)
-day 3 -> project structurer react setup
-day 4 -> profile sec creation
+## 🗓 Development Log
+
+### Day 1 — Idea & Planning
+- Overall idea planning  
+- Vision discussion  
+- Initial roadmap  
+
+### Day 2 — Authentication Setup
+- GitHub OAuth  
+- Database integration  
+- Email notifications  
+
+### Day 3 — Project Structure
+- React setup  
+- Folder architecture  
+- Base project structure  
+
+### Day 4 — Profile Section
+- Profile section creation  
+- UI structure  
+- Component organization  
